@@ -15,11 +15,12 @@ Cores definidas com variáveis CSS (:root) para fácil personalização.
 
 Estilos monospace para elementos de texto.
 
-- Como Usar
-Clone o repositório:
+##  Como Executar  
 
-bash
-git clone https://github.com/seu-usuario/dark-light-toggle.git
+1. Clone o repositório:  
+   ```bash
+   git clone https://github.com/jeannluisdm/Task-manager  
+   cd task-manager
 Abra o arquivo index.html no navegador.
 
 Clique no botão circular no canto superior direito para alternar entre temas.
