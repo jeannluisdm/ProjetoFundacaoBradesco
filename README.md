@@ -19,8 +19,8 @@ Estilos monospace para elementos de texto.
 
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/jeannluisdm/Task-manager  
-   cd task-manager
+   git clone https://github.com/jeannluisdm/ProjetoFundacaoBradesco  
+   cd ProjetoFundacaoBradesco
 Abra o arquivo index.html no navegador.
 
 Clique no botão circular no canto superior direito para alternar entre temas.
